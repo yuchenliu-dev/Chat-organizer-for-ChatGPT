@@ -6,6 +6,8 @@ ChatGPT Sidebar Organizer is an unofficial userscript for organizing ChatGPT con
 
 Version: **2.2.0**
 
+![main.png](main.png)
+
 ## Highlights
 
 - Create your own color-coded sections; no preset sections are imposed.
