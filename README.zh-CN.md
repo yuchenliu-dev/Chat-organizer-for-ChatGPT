@@ -6,6 +6,8 @@ ChatGPT Sidebar Organizer 是一个非官方 userscript，在 ChatGPT 页面中�
 
 版本：**2.2.0**
 
+![main.png](main.png)
+
 ## 主要功能
 
 - 自行创建带颜色的分区，不附带预设分区。
